@@ -18,6 +18,6 @@ Ces trois fichiers python sont des algorithmes qui permet de detecter des erreur
 ### Pour recuperer ce projet:
 - Il faut copier le repo Detection_Erreur
 ```sh
-        $ git clone https://github.com/uzmah04/
+        $ git clone https://github.com/uzmah04/Detection_Erreur.git
         $ cd Detection_Erreur
 ```
